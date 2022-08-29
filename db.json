@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "name": "Antonio Actualizado",
+      "company": "Teknik",
+      "email": "antonio.bermudez.ing@gmail.com",
+      "phone": "2781328153",
+      "notes": "Clientes recomendado por otro",
+      "id": 1
+    },
+    {
+      "name": "Viridiana",
+      "company": "Teknik",
+      "email": "viri@acedemlo.com",
+      "phone": "7123453421",
+      "notes": "Cotizar sitio web",
+      "id": 2
+    },
+    {
+      "name": "Marisol",
+      "company": "Marlin",
+      "email": "marisol@gmail.com",
+      "phone": "34234567854",
+      "notes": "Camisas con estilos",
+      "id": 3
+    }
+  ]
+}
